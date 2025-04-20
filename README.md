@@ -1,8 +1,8 @@
 # 📘 DSA Practice Checklist
 
 ## 🔢 Basic Arrays & Strings (10)
-- [ ] Find the largest element in an array  
-- [ ] Find the second largest element in an array  
+- [x] Find the largest element in an array  
+- [x] Find the second largest element in an array  
 - [ ] Reverse an array in-place  
 - [ ] Check if a string is a palindrome  
 - [ ] Remove duplicates from an array  
