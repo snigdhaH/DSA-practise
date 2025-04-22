@@ -4,7 +4,7 @@
 - [x] Find the largest element in an array  
 - [x] Find the second largest element in an array  
 - [ ] Reverse an array in-place  
-- [ ] Check if a string is a palindrome  
+- [x] Check if a string is a palindrome  
 - [ ] Remove duplicates from an array  
 - [ ] Find the frequency of elements in an array  
 - [ ] Merge two sorted arrays  
@@ -15,11 +15,11 @@
 ---
 
 ## 🔎 Searching & Sorting (8)
-- [ ] Linear search in an array  
-- [ ] Binary search in a sorted array  
-- [ ] Implement bubble sort  
-- [ ] Implement selection sort  
-- [ ] Implement insertion sort  
+- [x] Linear search in an array  
+- [x] Binary search in a sorted array  
+- [x] Implement bubble sort  
+- [x] Implement selection sort  
+- [x] Implement insertion sort  
 - [ ] Find the k-th smallest element  
 - [ ] Sort an array of 0s, 1s, and 2s (Dutch National Flag)  
 - [ ] Merge two sorted arrays into one sorted array  
@@ -27,11 +27,11 @@
 ---
 
 ## 🧮 Mathematics & Numbers (5)
-- [ ] Check if a number is prime  
+- [x] Check if a number is prime  
 - [ ] Find GCD (HCF) of two numbers  
-- [ ] Print Fibonacci series up to n terms  
-- [ ] Count digits in a number  
-- [ ] Reverse a number  
+- [x] Print Fibonacci series up to n terms  
+- [x] Count digits in a number  
+- [x] Reverse a number  
 
 ---
 
