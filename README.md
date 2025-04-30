@@ -5,7 +5,7 @@
 - [x] Find the second largest element in an array  
 - [ ] Reverse an array in-place  
 - [x] Check if a string is a palindrome  
-- [ ] Remove duplicates from an array  
+- [X] Remove duplicates from an array  
 - [ ] Find the frequency of elements in an array  
 - [ ] Merge two sorted arrays  
 - [ ] Rotate an array by k positions  
