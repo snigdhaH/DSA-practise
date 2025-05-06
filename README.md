@@ -10,7 +10,7 @@
 - [ ] Merge two sorted arrays  
 - [ ] Rotate an array by k positions  
 - [ ] Find the maximum sum subarray (Kadane’s algorithm)  
-- [ ] Move all zeros to the end of an array  
+- [x] Move all zeros to the end of an array  
 
 ---
 
