@@ -28,7 +28,7 @@
 
 ## 🧮 Mathematics & Numbers (5)
 - [x] Check if a number is prime  
-- [ ] Find GCD (HCF) of two numbers  
+- [x] Find GCD (HCF) of two numbers  
 - [x] Print Fibonacci series up to n terms  
 - [x] Count digits in a number  
 - [x] Reverse a number  
