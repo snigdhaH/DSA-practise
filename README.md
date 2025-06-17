@@ -22,7 +22,7 @@
 - [x] Implement insertion sort  
 - [ ] Find the k-th smallest element  
 - [ ] Sort an array of 0s, 1s, and 2s (Dutch National Flag)  
-- [ ] Merge two sorted arrays into one sorted array  
+- [x] Merge two sorted arrays into one sorted array  
 
 ---
 
