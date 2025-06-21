@@ -7,7 +7,7 @@
 - [x] Check if a string is a palindrome  
 - [X] Remove duplicates from an array  
 - [ ] Find the frequency of elements in an array  
-- [ ] Merge two sorted arrays  
+- [x] Merge two sorted arrays  
 - [ ] Rotate an array by k positions  
 - [ ] Find the maximum sum subarray (Kadane’s algorithm)  
 - [x] Move all zeros to the end of an array  
