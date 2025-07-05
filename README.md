@@ -20,7 +20,7 @@
 - [x] Implement bubble sort  
 - [x] Implement selection sort  
 - [x] Implement insertion sort  
-- [ ] Find the k-th smallest element  
+- [x] Find the k-th smallest element  
 - [ ] Sort an array of 0s, 1s, and 2s (Dutch National Flag)  
 - [x] Merge two sorted arrays into one sorted array  
 
