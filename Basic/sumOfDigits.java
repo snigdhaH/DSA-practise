@@ -4,11 +4,12 @@ public class sumOfDigits{
         Scanner sc= new Scanner(System.in);
         System.out.println("ENTER A NUMBER: ");
         int num= sc.nextInt();
-        int sum=0;
+        int sum=0,d;
         int p = num;
         while(num>0){
-            sum+= num%10;
-            num/=10;
+            d= num%10;
+            sum= sum+d;
+            num=num/10;
         }
         System.out.println("SUM OF THE DIGITS " + p + " IS: " + sum);
     }
